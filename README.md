@@ -8,5 +8,7 @@
 <P>
 参考：https://github.com/ltebean/LTNavigationBar
 </P>
+<P>
 ![image](https://github.com/ChinaFanny/YFNavigationbarDemo/blob/master/image/customTabBarController1.gif)
+</P>
 ![image](https://github.com/ChinaFanny/YFNavigationbarDemo/blob/master/image/customTabBarController.gif)
